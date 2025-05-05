@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+
+# Streamlit
+sections_to_excel.csv
+
+# Virtual environments
+venv/
+.env/
